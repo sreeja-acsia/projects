@@ -1,0 +1,39 @@
+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
+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
+
+cd desktop
+cd spring 
+cls
+git init
+git add .
+git commit -m "descriptive comment for code changes"
+[master (root-commit) dbb47b4] descriptive comment for code changes
+>git remote add origin https://github.com/sreeja18897/newrepo.git
+git push -u origin main
+
+
+
+Sreeja.Suresh@ATCLWI2471 MINGW64 ~
+$ git config user.name
+sreeja18897
+
+Sreeja.Suresh@ATCLWI2471 MINGW64 ~
+$ git config user.email
+Sreeja.Suresh@acsiatech.com
+
+Sreeja.Suresh@ATCLWI2471 MINGW64 ~
+$ git config --global user.name "sreeja-acsia"
+
+Sreeja.Suresh@ATCLWI2471 MINGW64 ~
+$ git config --global user.email "Sreeja.Suresh@acsiatech.com"
+
+Sreeja.Suresh@ATCLWI2471 MINGW64 ~
+$ git config user.name
+sreeja-acsia
+
+Sreeja.Suresh@ATCLWI2471 MINGW64 ~
+$ git config user.email
+Sreeja.Suresh@acsiatech.com
+
+Sreeja.Suresh@ATCLWI2471 MINGW64 ~
+$
